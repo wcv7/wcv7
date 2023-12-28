@@ -1,4 +1,4 @@
-Hi My name is wcv7
+Hi My Name Is wcv7
 =====================
 
 Web, Python, Game Developer -- Student
