@@ -1,7 +1,7 @@
 Hi My Name Is wcv7
 =====================
 
-Web, Python, Game Developer -- Student
+Web, Python, C++, Lua And Game Developer -- Student
 --------------------------------------
 
 I Started Coding About 3 Years Ago Mainly Coding In C# and BASH Scripts, But I Am Mainly Working With Python And Some Web Development, I'm Also Starting To Look Into Game Development Using C++ And LUA.
