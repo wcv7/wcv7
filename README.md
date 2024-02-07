@@ -36,6 +36,6 @@ I Started Coding About 4 Years Ago Mainly Coding In C# and BASH Scripts, But I A
 
 <ul style="list-style-type: none; margin: 0;">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/wcv7"><img src="https://cdn.buymeacoffee.com/buttons/v2/purple.png" width="150"/></a></li>
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/wcv7"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-purple.png" width="150"/></a></li>
 
 </ul>
