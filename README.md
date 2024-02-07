@@ -36,7 +36,6 @@ I Started Coding About 4 Years Ago Mainly Coding In C# and BASH Scripts, But I A
 
 <ul style="list-style-type: none; margin: 0;">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/wcv7"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="wcv7" data-color="#BD5FFF" data-emoji="☕" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/wcv7"><img src="https://cdn.buymeacoffee.com/buttons/v2/purple.png" width="150"/></a></li>
 
 </ul>
